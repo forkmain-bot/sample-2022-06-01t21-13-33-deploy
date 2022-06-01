@@ -6,7 +6,7 @@ image:
   repository: ghcr.io/heigliner-robot/sample-2022-06-01t21-13-33
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "main"
+  tag: "2398b41"
 imagePullSecrets:
   - name: sample-2022-06-01t21-13-33
 nameOverride: ""
